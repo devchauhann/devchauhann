@@ -2,12 +2,6 @@
 
 ### web dev
 
-<div align="center">
-
-<img src="https://github.com/devchauhann.png" alt="Dev Chauhan" width="150" height="150" style="border-radius: 50%; border: 4px solid #007AFF;">
-
-</div>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devchauhann" alt="devchauhann" /></a> </p>
 
 - 🔭 I'm currently working on **Notes Portal Web-Application**
