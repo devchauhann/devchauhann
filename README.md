@@ -2,7 +2,7 @@
 
 ### web dev
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devchauhann" alt="devchauhann" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devchauhann&theme=onedark" alt="devchauhann" /></a> </p>
 
 - 🔭 I'm currently working on **Notes Portal Web-Application**
 
