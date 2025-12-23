@@ -48,6 +48,8 @@ I'm currently working on amazing projects!
 | **devchauhann.github.io** | A modern macOS-inspired portfolio template featuring an interactive desktop environment with functional windows, dock, and control center. Built with HTML, CSS, and JavaScript, it includes a lock screen, finder-style portfolio sections, and real-time widget display. Perfect for developers wanting a unique way to showcase their work | HTML | [Link](https://devchauhann.github.io) |
 | **BrainSync** | A beautifully curated collection of engineering notes, Papers, and assignments designed for the modern student. | HTML,CSS,JS | [Link](https://brainsync.vercel.app) |
 | **Github Profile** | Open source tool to create GitHub profile README with the latest add-ons like visitors count, GitHub stats, etc. | HTML,CSS,JS | [Link](https://devchauhann.github.io/githubprofile/) |
+| **VoxNova** | VoxNova is an advanced Editorial AI Speech Studio designed for creators, podcasters, and content professionals to generate, edit, and manage high-quality | React, Ts, Vite, Tailwind Css | [Link](https://voxnova.vercel.app/) |
+
 
 <h3 align="left">Support:</h3>
 <p align="left">
