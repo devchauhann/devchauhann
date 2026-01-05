@@ -2,11 +2,6 @@
 
 ### Full Stack Web Developer
 
-<div align="center">
-
-<img src="https://github.com/devchauhann.png" alt="Dev Chauhan" width="150" height="150" style="border-radius: 50%; border: 4px solid #007AFF;">
-
-</div>
 
 - 🔭 I'm currently working on **[colora.in](colora.in)**
 
