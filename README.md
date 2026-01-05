@@ -8,9 +8,9 @@
 
 </div>
 
-- 🔭 I'm currently working on **BrainSync**
+- 🔭 I'm currently working on **[colora.in](colora.in)**
 
-- 🌱 I'm currently learning **Python**
+- 🌱 I'm currently learning **Typescript**
 
 - 📫 How to reach me **devgurjar9897@gmail.com**
 
