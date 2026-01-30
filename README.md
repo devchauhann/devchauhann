@@ -14,21 +14,11 @@ Full-stack web developer focused on building clean, fast, and user-friendly web 
 
 ### Stats
 
-<a href="https://github.com/devchauhann/github-readme-stats#gh-dark-mode-only">
-  <img align="top" alt="devchauhann-github-stats-dark" src="https://github-readme-stats.vercel.app/api?v=2&username=devchauhann&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-dark-mode-only">
-</a>
+![](https://github-readme-stats.vercel.app/api?username=devchauhann&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devchauhann&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devchauhann&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/devchauhann/github-readme-stats#gh-light-mode-only">
-  <img align="top" alt="devchauhann-github-stats-light" src="https://github-readme-stats.vercel.app/api?v=2&username=devchauhann&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-light-mode-only">
-</a>
-
-<a href="https://github.com/devchauhann/github-readme-stats#gh-dark-mode-only">
-  <img align="top" alt="top-langs-dark" src="https://github-readme-stats.vercel.app/api/top-langs/?v=2&username=devchauhann&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=320#gh-dark-mode-only">
-</a>
-
-<a href="https://github.com/devchauhann/github-readme-stats#gh-light-mode-only">
-  <img align="top" alt="top-langs-light" src="https://github-readme-stats.vercel.app/api/top-langs/?v=2&username=devchauhann&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=320#gh-light-mode-only">
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
