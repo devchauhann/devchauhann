@@ -25,7 +25,7 @@ I'm currently working on amazing projects!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,python,c,kotlin,html,css,react" /> </a></p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,python,c,kotlin,html,css,react,ts" /> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devchauhann&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devchauhann" /></p>
 
