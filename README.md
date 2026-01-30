@@ -1,52 +1,52 @@
-# Hi 👋, I'm Dev Chauhan
+## About
 
-### Full Stack Web Developer
+Full-stack web developer focused on building clean, fast, and user-friendly web experiences.
 
+- Working with **React, Next.js, TypeScript**
+- Building open-source tools & side projects
+- Love shipping polished, real-world products
 
-- 🔭 I'm currently working on **[colora.in](colora.in)**
+🌐 Website: https://devchauhan.in  
+✍️ Blog: https://devchauhan.in/blogs  
+📫 Email: devgurjar9897@gmail.com  
 
-- 🌱 I'm currently learning **Typescript**
+---
 
-- 📫 How to reach me **devgurjar9897@gmail.com**
+### Stats
 
-- ⚡ Fun fact **I love to create free and open source tools**
+<a href="https://github.com/devchauhann/github-readme-stats#gh-dark-mode-only">
+  <img align="top" alt="devchauhann-github-stats-dark" src="https://github-readme-stats.vercel.app/api?v=2&username=devchauhann&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-dark-mode-only">
+</a>
 
-- 👨‍💻 All of my projects are available at **[devchauhan.in](devchauhan.in)**
+<a href="https://github.com/devchauhann/github-readme-stats#gh-light-mode-only">
+  <img align="top" alt="devchauhann-github-stats-light" src="https://github-readme-stats.vercel.app/api?v=2&username=devchauhann&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-light-mode-only">
+</a>
 
-- 📝 I regularly write articles on **[blog.devchauhan.in](blog.devchauhan.in)**
+<a href="https://github.com/devchauhann/github-readme-stats#gh-dark-mode-only">
+  <img align="top" alt="top-langs-dark" src="https://github-readme-stats.vercel.app/api/top-langs/?v=2&username=devchauhann&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=320#gh-dark-mode-only">
+</a>
 
+<a href="https://github.com/devchauhann/github-readme-stats#gh-light-mode-only">
+  <img align="top" alt="top-langs-light" src="https://github-readme-stats.vercel.app/api/top-langs/?v=2&username=devchauhann&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=320#gh-light-mode-only">
+</a>
 
-I'm currently working on amazing projects!
+---
 
-<h3 align="left">Connect with me:</h3>
+### Links
+
 <p align="left">
-<a href="https://github.com/devchauhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devchauhann" height="30" width="40" /></a>
-<a href="https://instagram.com/devchauahan.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devchauahan.in" height="30" width="40" /></a>
+  <a href="https://linkedin.com/devchauhann3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/devchauhann" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,python,c,kotlin,html,css,react,ts" /> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devchauhann&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devchauhann" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devchauhann&show_icons=true&locale=en&theme=dracula" alt="devchauhann" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devchauhann&theme=dracula" alt="devchauhann" /></p>
-
-### 🚀 Projects
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **fitdev** | A modern, pastel-themed productivity application designed for developers and students to manage tasks, track habits, set goals, and maintain focus through deep work sessions. | HTML | [Link](https://fitdev.vercel.app) |
-| **iconworld** | A large collection of SVG's . Open Source . Free-to-use | HTML | [Link](https://iconworld.vercel.app) |
-| **devchauhann** | Profile | Code | [Link](https://github.com/devchauhann/devchauhann) |
-| **devchauhann.github.io** | A modern macOS-inspired portfolio template featuring an interactive desktop environment with functional windows, dock, and control center. Built with HTML, CSS, and JavaScript, it includes a lock screen, finder-style portfolio sections, and real-time widget display. Perfect for developers wanting a unique way to showcase their work | HTML | [Link](https://devchauhann.github.io) |
-| **BrainSync** | A beautifully curated collection of engineering notes, Papers, and assignments designed for the modern student. | HTML,CSS,JS | [Link](https://brainsync.vercel.app) |
-| **Github Profile** | Open source tool to create GitHub profile README with the latest add-ons like visitors count, GitHub stats, etc. | HTML,CSS,JS | [Link](https://devchauhann.github.io/githubprofile/) |
-| **VoxNova** | VoxNova is an advanced Editorial AI Speech Studio designed for creators, podcasters, and content professionals to generate, edit, and manage high-quality | React, Ts, Vite, Tailwind Css | [Link](https://voxnova.vercel.app/) |
-
-
-<h3 align="left">Support:</h3>
-<p align="left">
-<a href="https://www.buymeacoffee.com/dev3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
+<a href="https://www.buymeacoffee.com/dev3" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy Me A Coffee"
+       style="height: 60px !important;width: 217px !important;" />
+</a>
