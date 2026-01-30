@@ -10,9 +10,8 @@ Full-stack web developer focused on building clean, fast, and user-friendly web 
 ✍️ Blog: https://devchauhan.in/blogs  
 📫 Email: devgurjar9897@gmail.com  
 
----
 
-### Stats
+## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=devchauhann&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devchauhann&theme=dark&hide_border=true)<br/>
@@ -20,9 +19,8 @@ Full-stack web developer focused on building clean, fast, and user-friendly web 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 
-### Links
+## Links
 
 <p align="left">
   <a href="https://linkedin.com/devchauhann3" target="_blank">
@@ -33,7 +31,6 @@ Full-stack web developer focused on building clean, fast, and user-friendly web 
   </a>
 </p>
 
----
 
 <a href="https://www.buymeacoffee.com/dev3" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
