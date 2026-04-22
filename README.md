@@ -22,7 +22,7 @@
 
 <p align="center"><sub>
 <strong>Full-Stack Developer | Building Free Web Tools for Developers & Students | Open Source</strong></br>
-I'm a full-stack developer passionate about creating free, accessible web tools for developers and students. With expertise in modern web technologies, I focus on building solutions that solve real problems in the developer community."</em></strong><br />
+I'm a full-stack developer passionate about creating free, accessible web tools for developers and students. With expertise in modern web technologies, I focus on building solutions that solve real problems in the developer community.</em></strong><br />
 
 </sub></p>
 
